@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="camera_error">Obtaining the camera failed</string>
+</resources>
